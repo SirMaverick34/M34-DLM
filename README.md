@@ -13,11 +13,14 @@ The M34 Download Manager is a helpful tool that allows users to access useful co
 
 #### Known Issues
   - The app will not notify the user after successfully adding a set to the folder.
-  - Search is not implemented, just there for show for now.
   - 'Windows Smart Screen' **WILL** activate as a safety precaution. This is a Windows security precaution.
   - Placeholder images still may be in use for items in both Content Sets and Resources Tab.
 
 ## Change Log
+#### Version 0.7.0-b
+  - Updated Settings Tab
+  - Implemented Search Functionality
+  
 #### Version 0.6.0-b
   - Added Settings Tab
   - Added ability to remove all downloaded files.
