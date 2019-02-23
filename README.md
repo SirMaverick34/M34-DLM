@@ -1,22 +1,38 @@
+# M34 Download Manager
+Joshua Velez (SirMaverick34), 2019
+
+## About
+The M34 Download Manager is a helpful tool that allows users to access useful content and resources used within the community. Features include a concentrated downloads area for popular content sets, links to resources, and guides that users can follow to expand their NoLimits 2 knowledge. The tool is still development and I take no warranty of its usefulness in its current state (see License information below).
+
 #### Features!
   - Single .exe file! No installation required!
-  - Access to Ride, Scenery, Custom car sets.
+  - Access to Ride, Scenery, Custom Car, and other sets.
   - Ability to add downloaded sets into a specific folder.
   - Access to NL2 Resources like programs and communities.
   - Access to Tutorial Guides (Still a work-in-progress).
 
 #### Known Issues
-  - There is no error reporting, if an error occurs or the program becomes unresponsive.
   - Search is not implemented, just there for show for now.
   - 'Windows Smart Screen' **WILL** activate as a safety precaution. This is a Windows security precaution.
   - Placeholder images still may be in use for items in both Content Sets and Resources Tab.
 
-#### Instructions
-  1. Open the single .exe file included. The program does not require any special installation.
-  2. To view Content Sets, Resources or Guides, click the Refresh Icon. When the download completes, the list should auto-refresh.
-  3. Click on a list item for it to be focused in the Viewport. If trying to download and add a Content Set to an NL2 park, the Set needs to be downloaded first, Select a folder to add the set to using the Select Folder button. When the set is fully downloaded, then click the Add To Park button. It is recommended that the selected folder is a park folder for NoLimits 2 (com.nolimitscoaster.nolimits2 / *My Park*)
+## Change Log
+#### Version 0.5.3-b
+  - Error Modal Implementation.
+  - Automatic Error Message Display (Might be cryptic, but it can help with bug reporting)
+  - Partial support for common errors. (Not selecting a folder, trying to extract packages that were not downloaded yet, errors with downloading not initiating).
+  - Altered App Name for Windows Task Manager.
 
-#### Changes 0.5.2-b
+#### Version 0.5.2-b
   - Added Link Parsing to open links in user's default web browser.
   - Version in the lower right corner will open the GitHub Release Page.
   - Changes to the Guide Layouts (text paddings)
+
+## License Information
+M34 Download Manager Copyright (C) 2019, Joshua Velez (SirMaverick34)
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
