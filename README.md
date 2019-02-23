@@ -18,6 +18,12 @@ The M34 Download Manager is a helpful tool that allows users to access useful co
   - Placeholder images still may be in use for items in both Content Sets and Resources Tab.
 
 ## Change Log
+#### Version 0.6.0-b
+  - Added Settings Tab
+  - Added ability to remove all downloaded files.
+  - Added in-app licensing info.
+  - Added default message when no content lists are present.
+  
 #### Version 0.5.3-b
   - Error Modal Implementation.
   - Automatic Error Message Display (Might be cryptic, but it can help with bug reporting)
