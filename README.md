@@ -17,6 +17,12 @@ The M34 Download Manager is a helpful tool that allows users to access useful co
   - Placeholder images still may be in use for items in both Content Sets and Resources Tab.
 
 ## Change Log
+#### Version 0.8.0-b
+  - Updated Settings Tab.
+  - Notifications added for unpacking and tips.
+  - Added sound effects for various events.
+  - Added ability to turn toggle audio.
+  
 #### Version 0.7.0-b
   - Updated Settings Tab
   - Implemented Search Functionality
