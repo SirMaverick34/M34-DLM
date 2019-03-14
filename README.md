@@ -17,6 +17,10 @@ The M34 Download Manager is a helpful tool that allows users to access useful co
   - Placeholder images still may be in use for items in both Content Sets and Resources Tab.
 
 ## Change Log
+#### Version 0.9.0-b
+  - Overhaul on Content Sets and Resources viewports.
+  - Gallery Implementation.
+  
 #### Version 0.8.2-b
   - Adjustments to Guides to make it easier on the eyes.
   - Added parsing for NL2 buttons when giving instructions for NL2.
