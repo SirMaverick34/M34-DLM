@@ -5,7 +5,6 @@ Joshua Velez (SirMaverick34), 2019
 The M34 Download Manager is a helpful tool that allows users to access useful content and resources used within the community. Features include a concentrated downloads area for popular content sets, links to resources, and guides that users can follow to expand their NoLimits 2 knowledge. The tool is still development and I take no warranty of its usefulness in its current state (see License information below).
 
 #### Features!
-  - Single .exe file! No installation required!
   - Access to Ride, Scenery, Custom Car, and other sets.
   - Ability to add downloaded sets into a specific folder.
   - Access to NL2 Resources like programs and communities.
