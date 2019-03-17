@@ -16,6 +16,11 @@ The M34 Download Manager is a helpful tool that allows users to access useful co
   - Placeholder images still may be in use for items in both Content Sets and Resources Tab.
 
 ## Change Log
+#### Version 0.9.2-b
+  - Fixes to Jump links causing entire app to be shifted up.
+  - Added auto-open for guides.
+  - Tweaks to backend rendering.
+  
 #### Version 0.9.1-b
   - Implemented Java Code Parsing
   - Tweaks to viewport.
